@@ -31,11 +31,31 @@ How to Run the Project
 Follow these exact steps to set up and run the Weather App on your machine:
 ### 1️⃣ Install Requirements
 Make sure you have **Node.js** and **npm** installed.
-
 Check using:
-```bash
+`bash
 node -v
 npm -v
+
+How to run:
+CLI - 1
+- cd "path"
+- rmdir /s /q node_modules
+- del package-lock.json  `This removes all old or broken dependencies.`
+
+If that doesn’t work (Windows says “folder in use”), close VS Code and try:
+- npx rimraf node_modules
+
+- npm cache clean --force   `clean npm cache`
+
+- npm install    `reinstall dependencies`
+
+- npm list tailwindcss vite react    `Verify Installation`
+
+- npm run dev
+
+For CLI - 2
+- cd "path"
+- node server.cjs
 
 
 # React + Vite
