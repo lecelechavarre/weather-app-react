@@ -62,15 +62,15 @@ UI Rendering (TailwindCSS)
 
 ## 3. Features
 
-- 🔍 Search any city worldwide  
-- 🌡️ Display current temperature  
-- 🌤️ Weather condition and description  
-- 💧 Humidity metrics  
-- 🌬️ Wind speed  
-- 🏙️ City name with dynamic weather icon  
-- ⚡ Responsive layout (mobile, tablet, desktop)  
-- 🔐 Environment variable support for API keys  
-- ⚡ Fast dev and production builds using **Vite + React**
+- Search any city worldwide  
+- Display current temperature  
+- Weather condition and description  
+- Humidity metrics  
+- Wind speed  
+- City name with dynamic weather icon  
+- Responsive layout (mobile, tablet, desktop)  
+- Environment variable support for API keys  
+- Fast dev and production builds using **Vite + React**
 
 ---
 
