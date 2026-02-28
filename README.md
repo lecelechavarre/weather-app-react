@@ -8,7 +8,7 @@ This project demonstrates production-ready frontend architecture, API integratio
 
 ## 1. Purpose
 
-The Weather App is designed to:
+The Weather App is designed to: 
 
 - Provide users with real-time weather information for any city worldwide  
 - Serve as a demonstration of integrating third-party APIs in a React + Vite environment  
